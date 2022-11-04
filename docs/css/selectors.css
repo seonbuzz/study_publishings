@@ -1,0 +1,20 @@
+div ~ h3 {
+  color: cornflowerblue;
+}
+/* ul li {
+  color: darkgreen;
+  background-color: rgb(197, 207, 177);
+}
+ol > li {
+  color: white;
+  background-color: rgba(128, 128, 128, 0.551);
+} */
+
+h3,
+h4,
+h5 {
+  color: darkcyan;
+}
+h4 {
+  background-color: wheat;
+}

@@ -1,0 +1,21 @@
+.color_green {
+  color: green;
+}
+.color_blue {
+  color: cornflowerblue;
+}
+
+.bgc {
+  background-color: azure;
+}
+
+.square {
+  background-color: yellow;
+}
+
+.odd {
+  color: green;
+}
+.even {
+  color: blue;
+}
