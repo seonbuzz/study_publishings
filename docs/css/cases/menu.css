@@ -1,0 +1,24 @@
+.title {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.margin {
+  margin-top: 20px;
+}
+
+.ul {
+  list-style-type: none;
+  display: inline-block;
+}
+.li {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 10px;
+  padding: 0px 20px;
+}
+
+.bgc {
+  background-color: yellow;
+}
