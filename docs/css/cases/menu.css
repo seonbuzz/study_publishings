@@ -6,7 +6,10 @@
 .margin {
   margin-top: 20px;
 }
-
+.inner {
+  background-color: yellow;
+  text-align: center;
+}
 .ul {
   list-style-type: none;
   display: inline-block;
@@ -17,8 +20,4 @@
   font-weight: 500;
   margin: 10px;
   padding: 0px 20px;
-}
-
-.bgc {
-  background-color: yellow;
 }
