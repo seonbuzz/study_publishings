@@ -1,0 +1,17 @@
+.first {
+  width: 600px;
+}
+
+.center {
+  align-items: center;
+}
+
+thead,
+tfoot {
+  background-color: rgb(254, 161, 121);
+  color: white;
+}
+
+tbody.body {
+  background-color: rgb(255, 254, 224);
+}
