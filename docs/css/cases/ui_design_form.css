@@ -3,7 +3,8 @@
 }
 
 .center {
-  align-items: center;
+  text-align: center;
+  width: 350px;
 }
 
 thead,
